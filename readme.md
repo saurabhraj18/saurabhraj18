@@ -43,17 +43,16 @@ Some of the projects I’ve worked on:
 * 🕵️‍♀️ **Fake News Detection using ML**
 * 📊 **Personal Portfolio Website** using React and hosted on Netlify
 
-*(Feel free to update this with your actual projects)*
 
 ### 📫 How to Reach Me
 
 * 📧 \[[saurabhraj852119@gmail.com](saurabhraj852119@gmial.com)]
 ---
 
-## ⚡ Fun Fact
+## ⚡
 
 > I believe in **learning by building** — the best way to grow is to experiment, fail fast, and iterate quickly.
-> Outside of coding, I enjoy \[e.g., music, gaming, photography — add yours].
+> Outside of coding, I enjoy playing cricket and watching cricket and sometimes I like to read books ].
 
 ---
 
